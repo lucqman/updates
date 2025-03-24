@@ -1,44 +1,4 @@
-{
-    "Serial": [
-        {"Serial": "aB3xYz", "Dias": 1},
-        {"Serial": "Z9mPq2", "Dias": 1},
-        {"Serial": "L5kXw8", "Dias": 1},
-        {"Serial": "Rt7NvQ", "Dias": 1},
-        {"Serial": "jF4cWx", "Dias": 1},
-        {"Serial": "dE6MnT", "Dias": 1},
-        {"Serial": "Gh8KpL", "Dias": 1},
-        {"Serial": "oP1VbZ", "Dias": 1},
-        {"Serial": "Qr3XyW", "Dias": 1},
-        {"Serial": "sT5NmK", "Dias": 1},
-        {"Serial": "A7bCdE", "Dias": 7},
-        {"Serial": "fG9HjK", "Dias": 7},
-        {"Serial": "lM2NpQ", "Dias": 7},
-        {"Serial": "rS4TuV", "Dias": 7},
-        {"Serial": "wX6YzA", "Dias": 7},
-        {"Serial": "Bc8DeF", "Dias": 7},
-        {"Serial": "gH0IjK", "Dias": 7},
-        {"Serial": "lM3NpQ", "Dias": 7},
-        {"Serial": "rS5TuV", "Dias": 7},
-        {"Serial": "wX7YzA", "Dias": 7},
-        {"Serial": "C9dEfG", "Dias": 30},
-        {"Serial": "hJ1KlM", "Dias": 30},
-        {"Serial": "nP4QrS", "Dias": 30},
-        {"Serial": "tU6VwX", "Dias": 30},
-        {"Serial": "yZ8AbC", "Dias": 30},
-        {"Serial": "dE0FgH", "Dias": 30},
-        {"Serial": "jK2LmN", "Dias": 30},
-        {"Serial": "pQ5RsT", "Dias": 30},
-        {"Serial": "uV7WxY", "Dias": 30},
-        {"Serial": "zA9BcD", "Dias": 30},
-        {"Serial": "eF1GhI", "Dias": 90},
-        {"Serial": "jK3LmN", "Dias": 90},
-        {"Serial": "pQ6RsT", "Dias": 90},
-        {"Serial": "uV8WxY", "Dias": 90},
-        {"Serial": "zA0BcD", "Dias": 90},
-        {"Serial": "eF2GhI", "Dias": 90},
-        {"Serial": "jK4LmN", "Dias": 90},
-        {"Serial": "pQ7RsT", "Dias": 90},
-        {"Serial": "uV9WxY", "Dias": 90},
-        {"Serial": "zA1BcD", "Dias": 90}
-    ]
-}
+[
+    {"Serial": "aB3xYz", "Dias": 1},
+    {"Serial": "Z9mPq2", "Dias": 1}
+]
