@@ -1,4 +1,44 @@
-[
-    {"Serial": "ABC123", "Dias": 30},
-    {"Serial": "DEF456", "Dias": 15}
-]
+{
+    "Serial": [
+        {"Serial": "S1D001", "Dias": 1},
+        {"Serial": "S1D002", "Dias": 1},
+        {"Serial": "S1D003", "Dias": 1},
+        {"Serial": "S1D004", "Dias": 1},
+        {"Serial": "S1D005", "Dias": 1},
+        {"Serial": "S1D006", "Dias": 1},
+        {"Serial": "S1D007", "Dias": 1},
+        {"Serial": "S1D008", "Dias": 1},
+        {"Serial": "S1D009", "Dias": 1},
+        {"Serial": "S1D010", "Dias": 1},
+        {"Serial": "S7D001", "Dias": 7},
+        {"Serial": "S7D002", "Dias": 7},
+        {"Serial": "S7D003", "Dias": 7},
+        {"Serial": "S7D004", "Dias": 7},
+        {"Serial": "S7D005", "Dias": 7},
+        {"Serial": "S7D006", "Dias": 7},
+        {"Serial": "S7D007", "Dias": 7},
+        {"Serial": "S7D008", "Dias": 7},
+        {"Serial": "S7D009", "Dias": 7},
+        {"Serial": "S7D010", "Dias": 7},
+        {"Serial": "S30D001", "Dias": 30},
+        {"Serial": "S30D002", "Dias": 30},
+        {"Serial": "S30D003", "Dias": 30},
+        {"Serial": "S30D004", "Dias": 30},
+        {"Serial": "S30D005", "Dias": 30},
+        {"Serial": "S30D006", "Dias": 30},
+        {"Serial": "S30D007", "Dias": 30},
+        {"Serial": "S30D008", "Dias": 30},
+        {"Serial": "S30D009", "Dias": 30},
+        {"Serial": "S30D010", "Dias": 30},
+        {"Serial": "S90D001", "Dias": 90},
+        {"Serial": "S90D002", "Dias": 90},
+        {"Serial": "S90D003", "Dias": 90},
+        {"Serial": "S90D004", "Dias": 90},
+        {"Serial": "S90D005", "Dias": 90},
+        {"Serial": "S90D006", "Dias": 90},
+        {"Serial": "S90D007", "Dias": 90},
+        {"Serial": "S90D008", "Dias": 90},
+        {"Serial": "S90D009", "Dias": 90},
+        {"Serial": "S90D010", "Dias": 90}
+    ]
+}
