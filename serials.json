@@ -1,0 +1,242 @@
+[
+    {
+        "Serial": "ABC123-XYZ001",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ002",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ003",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ004",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ005",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ006",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ007",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ008",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ009",
+        "Dias": 1
+    },
+    {
+        "Serial": "ABC123-XYZ010",
+        "Dias": 1
+    },
+    {
+        "Serial": "DEF456-KLM001",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM002",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM003",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM004",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM005",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM006",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM007",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM008",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM009",
+        "Dias": 2
+    },
+    {
+        "Serial": "DEF456-KLM010",
+        "Dias": 2
+    },
+    {
+        "Serial": "GHI789-PQR001",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR002",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR003",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR004",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR005",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR006",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR007",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR008",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR009",
+        "Dias": 7
+    },
+    {
+        "Serial": "GHI789-PQR010",
+        "Dias": 7
+    },
+    {
+        "Serial": "JKL012-MNO001",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO002",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO003",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO004",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO005",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO006",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO007",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO008",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO009",
+        "Dias": 30
+    },
+    {
+        "Serial": "JKL012-MNO010",
+        "Dias": 30
+    },
+    {
+        "Serial": "STU345-VWX001",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX002",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX003",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX004",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX005",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX006",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX007",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX008",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX009",
+        "Dias": 90
+    },
+    {
+        "Serial": "STU345-VWX010",
+        "Dias": 90
+    },
+    {
+        "Serial": "YZA678-BCD001",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD002",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD003",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD004",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD005",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD006",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD007",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD008",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD009",
+        "Dias": 120
+    },
+    {
+        "Serial": "YZA678-BCD010",
+        "Dias": 120
+    }
+]
