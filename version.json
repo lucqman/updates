@@ -1,4 +1,12 @@
-{
-  "version": "1.2",
-  "url": "https://cfhcable.dl.sourceforge.net/project/lucqman/Update.zip?viasf=1"
-}
+[
+  {
+    "name": "Games-Download",
+    "version": "1.1",
+    "url": "https://cfhcable.dl.sourceforge.net/project/lucqman/Update.zip?viasf=1"
+  },
+  {
+    "name": "Lucqman-Torrent",
+    "version": "1.2",
+    "url": "https://cfhcable.dl.sourceforge.net/project/lucqman/Update.zip?viasf=1"
+  }
+]
